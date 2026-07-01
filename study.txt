@@ -21,3 +21,5 @@ terminal 을 통해 실행
 // html 기본 구조는 ! + [enter]
 // jsx는  rafce 
 
+ git에서 프로젝트 다운 후 node_modules 폴더가 없을경우
+cmd 에서 yarn 명령어 실행
