@@ -1,0 +1,22 @@
+npm은 예전 패키지매니저로 최근엔 yarn을 많이 사용함
+cmd > npm install -g yarn
+cmd > npx create-react-app learn-react
+
+terminal 을 통해 실행
+> terminal를  commands prompt로 변경
+> yarn start
+
+// extensions marketplace에서 추가 설치
+1. Auto Import - ES6, TS, JSX, TSX
+2. ES7+ React/Redux/React-Native
+3. Tailwind CSS IntelliSense
+
+// react 기초
+1. JSX 문법
+2. 컴포넌트
+3. props와 state
+
+// jsx 파일명은 바꿀수 있으나 git 정상적으로 배포 안되는 경우가 있다.
+
+// html 기본 구조는 ! + [enter]
+// jsx는  rafce 
